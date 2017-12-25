@@ -21,6 +21,8 @@ pm.dexopt.boot=verify
 pm.dexopt.install=quicken
 pm.dexopt.bg-dexopt=speed-profile
 pm.dexopt.ab-ota=speed-profile
+pm.dexopt.inactive=verify
+pm.dexopt.shared=speed
 debug.atrace.tags.enableflags=0
 persist.radio.snapshot_enabled=1
 persist.radio.snapshot_timer=10
@@ -29,8 +31,8 @@ ro.oem_unlock_supported=1
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Thu Aug 17 19:04:25 UTC 2017
-ro.bootimage.build.date.utc=1502996665
-ro.bootimage.build.fingerprint=google/bullhead/bullhead:8.0.0/OPR6.170623.013/4283548:user/release-keys
+ro.bootimage.build.date=Mon Nov 13 02:33:45 UTC 2017
+ro.bootimage.build.date.utc=1510540425
+ro.bootimage.build.fingerprint=google/bullhead/bullhead:8.1.0/OPM1.171019.011/4448085:user/release-keys
 persist.sys.usb.config=none
 
