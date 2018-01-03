@@ -31,8 +31,8 @@ ro.oem_unlock_supported=1
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Mon Nov 13 02:33:45 UTC 2017
-ro.bootimage.build.date.utc=1510540425
-ro.bootimage.build.fingerprint=google/bullhead/bullhead:8.1.0/OPM1.171019.011/4448085:user/release-keys
+ro.bootimage.build.date=Wed Dec 13 00:28:59 UTC 2017
+ro.bootimage.build.date.utc=1513124939
+ro.bootimage.build.fingerprint=google/bullhead/bullhead:8.1.0/OPM3.171019.013/4499252:user/release-keys
 persist.sys.usb.config=none
 
