@@ -1,1 +1,1 @@
-console=ttyHSL0,115200,n8 androidboot.hardware=bullhead boot_cpus=0-5 lpm_levels.sleep_disabled=1 msm_poweroff.download_mode=0 loop.max_part=7 buildvariant=user
+console=ttyHSL0,115200,n8 androidboot.hardware=bullhead boot_cpus=0-3 maxcpus=4 lpm_levels.sleep_disabled=1 msm_poweroff.download_mode=0 loop.max_part=7 buildvariant=user
